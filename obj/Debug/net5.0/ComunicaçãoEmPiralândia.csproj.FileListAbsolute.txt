@@ -1,0 +1,16 @@
+D:\git\ComunicaçãoEmPiralândia\bin\Debug\net5.0\ComunicaçãoEmPiralândia.exe
+D:\git\ComunicaçãoEmPiralândia\bin\Debug\net5.0\ComunicaçãoEmPiralândia.deps.json
+D:\git\ComunicaçãoEmPiralândia\bin\Debug\net5.0\ComunicaçãoEmPiralândia.runtimeconfig.json
+D:\git\ComunicaçãoEmPiralândia\bin\Debug\net5.0\ComunicaçãoEmPiralândia.runtimeconfig.dev.json
+D:\git\ComunicaçãoEmPiralândia\bin\Debug\net5.0\ComunicaçãoEmPiralândia.dll
+D:\git\ComunicaçãoEmPiralândia\bin\Debug\net5.0\ref\ComunicaçãoEmPiralândia.dll
+D:\git\ComunicaçãoEmPiralândia\bin\Debug\net5.0\ComunicaçãoEmPiralândia.pdb
+D:\git\ComunicaçãoEmPiralândia\obj\Debug\net5.0\ComunicaçãoEmPiralândia.csprojAssemblyReference.cache
+D:\git\ComunicaçãoEmPiralândia\obj\Debug\net5.0\ComunicaçãoEmPiralândia.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\ComunicaçãoEmPiralândia\obj\Debug\net5.0\ComunicaçãoEmPiralândia.AssemblyInfoInputs.cache
+D:\git\ComunicaçãoEmPiralândia\obj\Debug\net5.0\ComunicaçãoEmPiralândia.AssemblyInfo.cs
+D:\git\ComunicaçãoEmPiralândia\obj\Debug\net5.0\ComunicaçãoEmPiralândia.csproj.CoreCompileInputs.cache
+D:\git\ComunicaçãoEmPiralândia\obj\Debug\net5.0\ComunicaçãoEmPiralândia.dll
+D:\git\ComunicaçãoEmPiralândia\obj\Debug\net5.0\ref\ComunicaçãoEmPiralândia.dll
+D:\git\ComunicaçãoEmPiralândia\obj\Debug\net5.0\ComunicaçãoEmPiralândia.pdb
+D:\git\ComunicaçãoEmPiralândia\obj\Debug\net5.0\ComunicaçãoEmPiralândia.genruntimeconfig.cache
